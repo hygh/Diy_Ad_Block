@@ -1,0 +1,53 @@
+[Diy AD Filter Lists 2.0]
+! Checksum: PnINilT+WNta8SqSAmTOJw
+! Version: 201607111923
+! Title: Diy AD Filter Lists
+! EDiy AD Filter Lists
+! 
+! Expires: 4 days (update frequency)
+! Homepage:https://github.com/hygh/Diy_Ad_Block
+
+k.sogou.com###recommSection
+k.sogou.com##.section-tit
+k.sogou.com##.recommend-tab.vertical-wrap
+k.sogou.com##.reset-g.section-title-wap.section-title-b
+k.sogou.com##.kinds-comment-wap.kinds-comment-b
+k.sogou.com##div[style="padding: 15px;"]
+k.sogou.com##.gap
+k.sogou.com##.ad-webchat
+k.sogou.com##.ft-wechat
+k.sogou.com###cnzz_image_load
+k.sogou.com###recommend
+k.sogou.com##.lst3
+k.sogou.com##.secHd
+k.sogou.com###hobbyList
+k.sogou.com##.lst
+k.sogou.com##.read_notice
+k.sogou.com###_b_o_x12345
+k.sogou.com##.refresh
+k.sogou.com###y_dt1
+k.sogou.com###y_dm1
+k.sogou.com##.footer
+k.sogou.com###d_tx
+k.sogou.com###gameId
+k.sogou.com###adid
+k.sogou.com##div[style="text-align: center; display: block;"]
+k.sogou.com##a[style="height: 34px;color: #6f654d;font-size: 14px;line-height: 34px;padding-left: 10px;text-overflow: ellipsis;white-space: nowrap;overflow: hidden;display: block;"]
+k.sogou.com###a_load_tips_off
+k.sogou.com##.lst2
+m.acfun.tv###prompt-box
+m.acfun.tv###bottom-download
+m.acfun.tv###btn-app
+m.acfun.tv##.btn
+tieba.baidu.com##.j_zan_reply.zan_reply
+tieba.baidu.com##.client_ghost_icon.j_client_ghost_icon
+tieba.baidu.com##.j_pb_footer.j_footer.footer
+m.acfun.tv###footer
+k.sogou.com##.ad_zoom
+v.pptv.com##.img-bg
+v.pptv.com##.topPlugIn.c_b
+k.sogou.com##.adwind
+m.dmzj.com###khdDown
+m.dmzj.com##.bottomDown
+k.sogou.com###readpopup
+||static.dmzj.com/module/images/float_code.jpg
